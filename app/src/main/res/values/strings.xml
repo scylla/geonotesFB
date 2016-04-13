@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GeoNotes</string>
+    <string name="facebook_app_id">1135001066552617</string>
+    <string name="project_number">508865410875</string>
+    <string name="first_launch">First Launch</string>
+    <string name="num_of_missed_messages">MissedMessageCount</string>
+    <string name="lines_of_message_count">LinesOfMessageCount</string>
+    <string name="preferences">PreferencesFile</string>
+    <string name="notification_number">1337</string>
+    <string name="endpoint_arn_sns">arn:aws:sns:ap-northeast-1:276570401165:app/GCM/geonotes</string>
+    <string name="sns_reg">Register For SNS</string>
+</resources>
